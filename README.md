@@ -45,3 +45,36 @@ zip有点大哈，但这是免费本地自用的大前提，所以下载需等�
 - 升级前：创建一次备份；程序安装目录和用户资料目录分离，卸载默认保留资料。
 
 ## 运行截图
+
+### 1. 应用首页与拖放导入
+
+![应用首页与拖放导入](docs/screenshots/1.png)
+
+### 2. 扫描 PDF 的 OCR 处理进度
+
+![扫描 PDF 的 OCR 处理进度](docs/screenshots/2.png)
+
+### 3. 本地知识库问答
+
+![本地知识库问答](docs/screenshots/3.png)
+
+### 4. 回答来源与页码引用
+
+![回答来源与页码引用](docs/screenshots/4.png)
+
+### 5. 原文对照校对与导出
+
+![原文对照校对与导出](docs/screenshots/5.png)
+
+### 6. 高级设置与默认参数组
+
+![高级设置与默认参数组](docs/screenshots/6.png)
+
+### 7. 检索、切片与回答参数
+
+![检索、切片与回答参数](docs/screenshots/7.png)
+
+### 8. 资料备份与恢复
+
+![资料备份与恢复](docs/screenshots/8.png)
+
